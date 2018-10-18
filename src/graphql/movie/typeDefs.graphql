@@ -1,0 +1,30 @@
+# Enumeration
+enum Genre {
+    Action
+    Thriller
+    Comedy
+    Drama
+    Horror
+    Romantic_Comedy
+    Adventure
+    Fantasy
+    Science_fiction
+}
+
+# Type
+type Query {
+    movielist(releaseDate : Date) : [Movie]
+}
+
+type Movie {
+    title : String!
+    desc : String
+    genre : [Genre!]
+    author : [Author!]
+    rating : Int
+    imdb : Int
+    review : String
+    youtube : String
+    releaseDate : Date
+}
+

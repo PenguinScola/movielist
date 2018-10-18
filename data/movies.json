@@ -1,0 +1,49 @@
+{
+    "data" : [
+        {
+            "title" : "Homestay",
+            "desc" : "When spirit has opportunity to be in some guy body, he must solve some puzzles..",
+            "genre" : ["Thriller", "Fantasy"],
+            "author" : [
+                {
+                    "firstname" : "Teeradon",
+                    "lastname" : "Supapunpinyo",
+                    "age" : 21
+                },
+                {
+                    "firstname" : "Cherprang",
+                    "lastname" : "Areekul",
+                    "age" : 22
+                }
+            ],
+            "rating" : 5,
+            "imdb" : 9,
+            "review" : "Good plot and CG",
+            "youtube" : "https://www.youtube.com/watch?v=qC0EdDTYptQ",
+            "releaseDate" : "2018-10-25T00:00:00.000Z"
+        },
+        {
+            "title" : "Venom",
+            "desc" : "Journalist Eddie Brock is trying to take down Carlton Drake, the notorious and brilliant founder of the Life Foundation..",
+            "genre" : ["Thriller", "Science fiction"],
+            "author" : [
+                {
+                    "firstname" : "Tom",
+                    "lastname" : "Hardy",
+                    "age" : 45
+                 },
+                 {
+                    "firstname" : "Michelle",
+                    "lastname" : "Williams",
+                    "age" : 35
+                 }
+            ],
+            "rating" : 3,
+            "imdb" : 7,
+            "review" : "Bad beginning but good ending",
+            "youtube" : "https://www.youtube.com/watch?v=xLCn88bfW1o",
+            "releaseDate" : "2018-10-01T00:00:00.000Z"
+         }
+    ]
+}
+
