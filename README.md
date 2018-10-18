@@ -2,7 +2,7 @@
 GraphQL New Version - Movielist
 
 # How to start it
-yarn install
+yarn install <br />
 yarn start
 
 # URL
